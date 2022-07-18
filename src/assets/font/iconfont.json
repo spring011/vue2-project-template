@@ -1,0 +1,163 @@
+{
+  "id": "2808612",
+  "name": "赛事管理后台",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "24926155",
+      "name": "icon_步骤_当前",
+      "font_class": "icon_buzhou_dangqian",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "24853996",
+      "name": "icon_播放",
+      "font_class": "icon_bofang",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "24714639",
+      "name": "icon_结果_审核失败",
+      "font_class": "icon_jieguo_shenheshibai",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "24714640",
+      "name": "icon_结果_审核通过",
+      "font_class": "icon_jieguo_shenhetongguo",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "24713853",
+      "name": "icon_箭头_文字按钮",
+      "font_class": "icon_jiantou_wenzianniu",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "24685835",
+      "name": "icon_侧边栏_推广中心",
+      "font_class": "icon_cebianlan_tuiguangzhongxin",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "24403589",
+      "name": "抽成",
+      "font_class": "choucheng",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "24403590",
+      "name": "报名成功",
+      "font_class": "baomingchenggong",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "24403591",
+      "name": "费用",
+      "font_class": "feiyong",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "24403592",
+      "name": "退费中",
+      "font_class": "tuifeizhong",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "24403593",
+      "name": "退费成功",
+      "font_class": "tuifeichenggong",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "24403573",
+      "name": "icon_侧边栏_资金",
+      "font_class": "icon_cebianlan_zijin",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "24403574",
+      "name": "icon_公共_说明",
+      "font_class": "icon_gonggong_shuoming",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "24403575",
+      "name": "icon_标题栏_用户",
+      "font_class": "icon_biaotilan_yonghu",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "24403576",
+      "name": "icon_标题栏_退出",
+      "font_class": "icon_biaotilan_tuichu",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "24403577",
+      "name": "icon_侧边栏_流量",
+      "font_class": "icon_cebianlan_liuliang",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "24403578",
+      "name": "icon_提示_成功",
+      "font_class": "icon_tishi_chenggong",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "24403579",
+      "name": "icon_侧边栏_赛事管理",
+      "font_class": "icon_cebianlan_saishiguanli",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "24403580",
+      "name": "img_配图示例_排名主视图",
+      "font_class": "img_peitushili_paimingzhushitu",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "24403581",
+      "name": "img_配图示例_赛事头像",
+      "font_class": "img_peitushili_saishitouxiang",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "24403582",
+      "name": "img_配图示例_详情主视图",
+      "font_class": "img_peitushili_xiangqingzhushitu",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "24403500",
+      "name": "赛事管理",
+      "font_class": "saishiguanli",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    }
+  ]
+}

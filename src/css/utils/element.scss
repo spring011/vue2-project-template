@@ -1,0 +1,43 @@
+.center-content {
+  .el-message-box__content {
+    text-align: center;
+  }
+}
+.el-pager li.active+li {
+  border-left: 1px solid #ebeef5 !important;
+}
+.el-form--inline .el-form-item {
+  margin-right: 30px !important;
+}
+.el-form-item__label {
+  padding-right: 8px !important;
+}
+.el-table .el-table__cell.is-center {
+  text-align: left !important;
+}
+.el-table .el-table__cell.is-center:first-of-type {
+  .cell {
+    padding-left: 20px !important;
+  }
+}
+.el-table .el-table__cell.is-center:last-of-type {
+  text-align: right !important;
+  .cell {
+    padding-right: 20px !important;
+  }
+}
+// 表单内的select 和 input 一样长，添加 el-form-select 这个类即可
+.el-form-select {
+  .el-form-item {
+    .el-select {
+      input {
+        width: 200px;
+      }
+    }
+  }
+}
+.task-dialog {
+  .el-dialog__body {
+    padding: 20px;
+  }
+}

@@ -1,0 +1,50 @@
+.margin0 {
+  margin: 0 !important;
+}
+.mb20 {
+  margin-bottom: 20px !important;
+}
+.mr20 {
+  margin-right: 20px !important;
+}
+.red-star::after {
+  content: '*';
+  display: inline-block;
+  color: red;
+  margin-right: 4px;
+}
+.task-dialog {
+  .el-form-item__label {
+    padding-right: 12px !important;
+  }
+  .el-form-item__content {
+    text-align: left !important;
+  }
+}
+.task-alert {
+  .el-message-box__message {
+    text-align: center;
+    padding: 10px 0;
+  }
+}
+.task-table {
+  &.el-table .el-table__cell.is-center {
+    text-align: center !important;
+  }
+  &.el-table .el-table__cell.is-center:last-of-type {
+    text-align: center !important;
+  }
+}
+button.task-btn-disabled:hover {
+  cursor: initial !important;
+}
+button.task-btn-disabled {
+  cursor: initial !important;
+}
+.bb {
+  border-bottom: 1px solid #ebeef5;
+}
+.link {
+  color: #409EFF;
+  cursor: pointer;
+}
